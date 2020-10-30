@@ -12,7 +12,7 @@ Files Include
 ***
 Functions Include
 -------
-* FINDING ID (아이디 조회)
+* Finding ID (아이디 조회)
 
 Contact
 -----
